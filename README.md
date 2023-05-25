@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **how to build web applications with Spring boot and Angular**
 
-- 📄 Know about my experiences [I am a computer science engineering with 3 years experience in building web apps.](I am a computer science engineering with 3 years experience in building web apps.)
+- 📄 Know about my experiences [I am a computer science engineering with 3 years experience in building web apps.]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
