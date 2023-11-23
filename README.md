@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Art store web app**
 
-- 🌱 I’m currently learning **how to build web applications with Spring boot and Angular**
+- 🌱 I’m currently learning **How to work on data science projects, including Data Collection, Data Cleaning and Visualization... **
 
-- 📄 Know about my experiences [I am a computer science engineering with 5 years experience in building web apps.]
+- 📄 Know about my experiences [I am a computer science and network engineer with 5 years experience in building web applications.My expertise includes using Java and Java EE on the server-side, along with HTML/CSS and JavaScript for client-side development.  .]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
