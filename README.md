@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Jihane AZ</h1>
+<h1 align="center">Hi 👋, I'm Jihane AZRHILIL</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently working on **Art store web app**
+- 🔭 I’m currently looking to **enhance my expertise in coding, learning new technologies and the best development practices to ensure the quality of the code I develop.**
 
-- 🌱 I’m currently learning **How to work on data science projects, including Data Collection, Data Cleaning and Visualization... **
+- 🌱 My next goal is to learn **How to work on data science projects, including Data Collection, Data Cleaning and Visualization...**
 
-- 📄 Know about my experiences [I am a computer science and network engineer with 5 years experience in building web applications. My expertise includes using Java EE on the server-side, along with HTML/CSS and JavaScript for client-side development.  .]
+- 📄 Know about my experiences: **I am a computer science and network engineer with 5 years experience in building web applications. My expertise includes using Java EE and Spring boot on the server-side, along with React js and Angular for client-side development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
